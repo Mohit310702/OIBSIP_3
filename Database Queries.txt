@@ -2,7 +2,7 @@
 
 1 - Create database with name ATMInterface in mysql
 
-create database bankmanagementsystem;
+create database ATMInterface;
 
 2 - Select the database you just created
 
